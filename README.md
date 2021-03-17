@@ -1,2 +1,2 @@
 # flask-app
-catboost model
+sklearn model
